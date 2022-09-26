@@ -9,3 +9,5 @@ Instructions:
 When open in the browser press the "Track Bus Location" button to add a marker to the map that updates the bus location every 10 seconds.
 At this stage the application shows one singular route, however could be updated to view multiple bus routes at once or toggle through different bus routes in Boston for future development.
 
+This is used under license from MIT.
+
