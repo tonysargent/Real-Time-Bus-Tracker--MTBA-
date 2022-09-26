@@ -2,7 +2,7 @@
 
 ![mtba](https://user-images.githubusercontent.com/109193497/192193178-6d8c93cf-d63c-475b-9d9a-c128189b737c.png)
 MIT xPro Real Time Bus Tracker Exercise
-Tracks a Boston bus route in real time with a map marker using mapbox.
+Tracks a Boston bus route in real time with a map marker using a mapbox.
 This utilises the MTBA api to retrieve the bus data and javascript to create the moving marker on the map.
 
 Instructions:
